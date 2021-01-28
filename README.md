@@ -4,7 +4,7 @@ This repo is to keep track of all my work on Ranger ROV, ranging from design, BO
 
 Top side conputer
 1.Raspberry Pi with Raspbian
-2.ROV Hand Control-Custom made with teensy arduino.
+2.ROV Controller - Custom made with teensy 2.0 with arduino setup
 
 
 
