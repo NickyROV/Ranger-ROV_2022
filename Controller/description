@@ -1,4 +1,8 @@
 Hardware : Teensy 2.0 with arduino.ino
+Software : Arduino with Teensyduino add-on from www.pjrc.com
+
+Hardware :
 1 Industrial grade 2 axis control
 16 switches
 16 button switches
+
