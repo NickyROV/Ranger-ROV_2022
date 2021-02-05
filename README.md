@@ -16,6 +16,10 @@ For QGroundControl (Main ROV unit)
 
 5.Control reference : DIY ROV Software Setup Tutorial, Raspberry Pi (https://www.youtube.com/watch?v=mH0vH4dd3Vo)
 
+Note : Cat5 / Cat 5E was use as signal tether for the maximum cable length in this case is about 20m, signal attenuation is expected to be neglib
+le for this physical cable confiuration with 100 megabits per second. (we can skip the Fathom-X as in BlueROV configuration)
+
+
 For Mini-robot
 
 1.Teensy at surface with custom made control, teensy at ROV with custom made manulipator
