@@ -4,7 +4,7 @@ This repo is to keep track of all my work on Ranger ROV, ranging from design, BO
 
 Firmware : ArduSub / Px4 (pix4.io and ardupilot.org)
 
-For QGroundControl
+For QGroundControl (Main ROV unit)
 
 1.Surface : Jetson Nano with Ubunto 20.08 (64-bit)
 
