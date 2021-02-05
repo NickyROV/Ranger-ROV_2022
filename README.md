@@ -12,14 +12,14 @@ For QGroundControl
 
 3.ROV ArduSub : Pix4 (2.4.8)
 
-2.ROV Controller - XBox control or Custom made with teensy, program with arduino C
+4.ROV Controller - XBox control or Custom made with teensy, program with arduino C
 
-3.Control reference : DIY ROV Software Setup Tutorial, Raspberry Pi (https://www.youtube.com/watch?v=mH0vH4dd3Vo)
+5.Control reference : DIY ROV Software Setup Tutorial, Raspberry Pi (https://www.youtube.com/watch?v=mH0vH4dd3Vo)
 
 For Mini-robot
 
 1.Teensy at surface with custom made control, teensy at ROV with custom made manulipator
 
-2. Signal via RS485 module
+2.Signal via RS485 module
 
 
