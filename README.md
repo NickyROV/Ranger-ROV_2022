@@ -4,13 +4,13 @@ This repo is to keep track of all my work on Ranger ROV, ranging from design, BO
 
 Firmware : ArduSub / Px4 (pix4.io and ardupilot.org)
 
-Top side computer
-
 For QGroundControl
 
 1.Surface : Jetson Nano with Ubunto 20.08 (64-bit)
 
-Raspberry Pi with Raspbian
+2.ROV Componian computer : Raspberry Pi with Raspbian
+
+3.ROV ArduSub : Pix4 (2.4.8)
 
 2.ROV Controller - XBox control or Custom made with teensy, program with arduino C
 
@@ -18,9 +18,8 @@ Raspberry Pi with Raspbian
 
 For Mini-robot
 
-1. Teensy at surface and ROV
+1.Teensy at surface with custom made control, teensy at ROV with custom made manulipator
 
 2. Signal via RS485 module
 
 
-Manipulator : Mini servo secure in water-proof housing with push rod rubber connected to actuator.
