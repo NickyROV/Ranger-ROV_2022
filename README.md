@@ -2,6 +2,8 @@
 
 This repo is to keep track of all my work on Ranger ROV, ranging from design, BOM, program, SID and technicial document.
 
+This is basically two separate system, ardusub firmware in pixhawk to control the main ROV, and teensy to mini ROV.
+
 Firmware : ArduSub (ardusub.com) / Px4 (pix4.io and ardupilot.org)
 
 For QGroundControl (Main ROV unit)
