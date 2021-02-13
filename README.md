@@ -28,4 +28,9 @@ For Mini-robot
 
 2.Signal via RS485 module
 
+PixHawk setting
+MAIN 1-6 : Thruster ESC
+Aux 1-3 : 3 DOF Gripper(U R T)
+Aux 4-6 : Mini ROV (Forward/Backward, Grippler(T), Gripper rotation (R))
+
 
