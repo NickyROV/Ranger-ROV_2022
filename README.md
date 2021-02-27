@@ -8,7 +8,7 @@ Firmware : ArduSub (ardusub.com) / Px4 (pix4.io and ardupilot.org)
 
 For QGroundControl (Main ROV unit)
 
-1.Surface : Jetson Nano with Ubunto 20.08 (64-bit)
+1.Surface : Jetson Nano with Linux, but need to deal with monitor, or notebook with ubuntu system 20.04. 
 
 2.ROV Componian computer : Raspberry Pi with Raspbian
 
